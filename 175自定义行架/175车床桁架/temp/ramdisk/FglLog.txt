@@ -1,23 +1,23 @@
-*GUI(1)*UserPrjDat:C:\Users\Admin\Desktop\175自定义行架\175车床桁架\Bin\fshmi.bin
-*GUI(1)*PicResDir:C:\Users\Admin\Desktop\175自定义行架\175车床桁架\Bin\Images\
-*GUI(1)*TtfResDir:C:\Users\Admin\Desktop\175自定义行架\175车床桁架\Bin\Fonts\
-*GUI(1)*AudResDir:C:\Users\Admin\Desktop\175自定义行架\175车床桁架\Bin\Audio\
-*GUI(1)*PlcDrvDir:C:\Users\Admin\Desktop\175自定义行架\175车床桁架\Bin\Device\
-*GUI(1)*MacroDir:C:\Users\Admin\Desktop\175自定义行架\175车床桁架\Bin\Macro\
-*GUI(1)*RcpDir:C:\Users\Admin\Desktop\175自定义行架\175车床桁架\temp\disk\hmi\rcp\
+*GUI(1)*UserPrjDat:C:\Users\Admin\Desktop\GIT储存库\shenzhenleadshine\175自定义行架\175车床桁架\Bin\fshmi.bin
+*GUI(1)*PicResDir:C:\Users\Admin\Desktop\GIT储存库\shenzhenleadshine\175自定义行架\175车床桁架\Bin\Images\
+*GUI(1)*TtfResDir:C:\Users\Admin\Desktop\GIT储存库\shenzhenleadshine\175自定义行架\175车床桁架\Bin\Fonts\
+*GUI(1)*AudResDir:C:\Users\Admin\Desktop\GIT储存库\shenzhenleadshine\175自定义行架\175车床桁架\Bin\Audio\
+*GUI(1)*PlcDrvDir:C:\Users\Admin\Desktop\GIT储存库\shenzhenleadshine\175自定义行架\175车床桁架\Bin\Device\
+*GUI(1)*MacroDir:C:\Users\Admin\Desktop\GIT储存库\shenzhenleadshine\175自定义行架\175车床桁架\Bin\Macro\
+*GUI(1)*RcpDir:C:\Users\Admin\Desktop\GIT储存库\shenzhenleadshine\175自定义行架\175车床桁架\temp\disk\hmi\rcp\
 *GUI(1)*SysFrmBuf:<XPixs>800</XPixs><YPixs>480</YPixs><ColorBits>16</ColorBits>
-*GUI(1)*HmiDir:C:\Users\Admin\Desktop\175自定义行架\175车床桁架\temp\disk\hmi\
-*GUI(1)*SdDir:C:\Users\Admin\Desktop\175自定义行架\175车床桁架\temp\disk\sd\
-*GUI(1)*Usb1Dir:C:\Users\Admin\Desktop\175自定义行架\175车床桁架\temp\disk\usb1\
+*GUI(1)*HmiDir:C:\Users\Admin\Desktop\GIT储存库\shenzhenleadshine\175自定义行架\175车床桁架\temp\disk\hmi\
+*GUI(1)*SdDir:C:\Users\Admin\Desktop\GIT储存库\shenzhenleadshine\175自定义行架\175车床桁架\temp\disk\sd\
+*GUI(1)*Usb1Dir:C:\Users\Admin\Desktop\GIT储存库\shenzhenleadshine\175自定义行架\175车床桁架\temp\disk\usb1\
 *GUI(1)*Usb2Dir:D:\Program Files (x86)\LS\LT Studio 1.2 2.x\Bin\
-*GUI(1)*MemFs:C:\Users\Admin\Desktop\175自定义行架\175车床桁架\temp\ramdisk\
+*GUI(1)*MemFs:C:\Users\Admin\Desktop\GIT储存库\shenzhenleadshine\175自定义行架\175车床桁架\temp\ramdisk\
 *GUI(1)*RunMode:SimPlc
 *GUI(1)*Debug:N
 *GUI(1)*SysFontDir:D:\Program Files (x86)\LS\LT Studio 1.2 2.x\Lib\Fonts\
 *GUI(1)*MapPort:1234
 *GUI(1)*SimRamSize:64
 *GUI(1)*SimExitTime:14400
-*GUI(1)*ProjectCheckSum(0x2aeeabd, 0x2aeeab2)
+*GUI(1)*ProjectCheckSum(0x2b7a9df, 0x2bd950d)
 *GUI(1)*ClientMonit::Pid(0)
 *GUI(1)*LightSave 1 BackLight 60 LightPercent 20
 *GUI(1)*DoLoadTtfFile::Pid(0)
