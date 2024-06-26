@@ -12,8 +12,8 @@
  <Property name="项目结构:高层代号数" id="10005" index="0" type="7">&lt;1700&gt;</Property>
  <Property name="项目结构:文档类型" id="10006" index="0" type="7"/>
  <Property name="项目结构:用户自定义的结构" id="10007" index="0" type="7"/>
- <Property name="项目名称(完整)" id="10009" index="0" type="7">C:\Users\Admin\Desktop\175自定义行架\新项目(2).elk</Property>
- <Property name="项目路径" id="10010" index="0" type="7">C:\Users\Admin\Desktop\175自定义行架</Property>
+ <Property name="项目名称(完整)" id="10009" index="0" type="7">C:\Users\Admin\Desktop\GIT储存库\shenzhenleadshine\175自定义行架\新项目(2).elk</Property>
+ <Property name="项目路径" id="10010" index="0" type="7">C:\Users\Admin\Desktop\GIT储存库\shenzhenleadshine\175自定义行架</Property>
  <Property name="项目描述" id="10011" index="0" type="15">de_DE@Projektvorlage mit Kennzeichnungsstruktur gemäß IEC-Norm: Seitenstruktur mit Anlage und Einbauort;en_US@Project template with identification structure in accordance with IEC standard: Page structure with higher-level function and mounting location;es_ES@Plantilla de proyecto con estructura de identificación según la norma IEC: Estructura de página con instalación y lugar de montaje;fr_FR@Modèle de projet avec structure d&apos;identification conformément à la norme IEC : Structure de page avec installation et lieu de montage;nl_NL@Projectsjabloon met coderingsstructuur volgens IEC-Norm: paginastructuur met groep en inbouwplaats;sv_SE@Projektmall med beteckningsstruktur enligt IEC-normen: bladstruktur med anläggning och montageplacering;da_DK@Projektskabelon med identificerende struktur iht. IEC-norm: Sidestruktur med anlæg og placering;ru_RU@Шаблон проекта со структурой обозначений согласно стандарту IEC: Структура страницы с установкой и местом установки;zh_CN@带 IEC 标准标识结构的项目模板:带有高层代号和位置代号的页结构;pl_PL@Szablon projektu ze strukturą oznaczeń zgodnie z normą IEC: Struktura stron z urządzeniem i miejscem montażu;pt_BR@Projeto de modelo com estrutura de identificação de acordo com a norma IEC: Estrutura da página com instalação e local de montagem;cs_CZ@Šablona projektu se strukturou označení podle normy IEC: Struktura stran se zařízením a místem instalace;it_IT@Modello di progetto con struttura identificativa conforme alla norma IEC: Struttura pagine con impianto e luogo di montaggio;hu_HU@Projektsablon jelzési szerkezettel az IEC-szabvány szerint: Tervlapszerkezet főcsoporttal és beépítési hellyel;pt_PT@Modelo de projeto com estrutura de bloco identificador conforme a norma IEC: estrutura de página com instalação e local de montagem;ko_KR@IEC 표준에 따른 식별 구조가 있는 프로젝트 템플릿: 상위 레벨 기능 및 부착 영역이 있는 페이지 구조;ja_JP@プロジェクト テンプレート、IEC 規格に準拠した識別子構造: 上位階層機能および実装位置を使用したページ構造;tr_TR@IEC normuna göre tanımlama yapılı proje şablonu: Üst düzey fonksiyon ve montaj yeri içeren sayfa yapısı;ro_RO@Şablon proiect cu structură indicator conform standardului IEC: Structură pagină cu funcţie superioară şi locaţie de montare;</Property>
  <Property name="设备标识符中使用页名" id="10012" index="0" type="1">0</Property>
  <Property name="项目编号" id="10013" index="0" type="7">IEC_tpl001</Property>
@@ -26,17 +26,17 @@
  <Property name="创建者" id="10020" index="0" type="7">Big Fish &amp; Begonia</Property>
  <Property name="创建日期" id="10021" index="0" type="14">1712233519</Property>
  <Property name="最后修订者:登录名" id="10022" index="0" type="7">ADMIN</Property>
- <Property name="更改日期" id="10023" index="0" type="14">1712463869</Property>
+ <Property name="更改日期" id="10023" index="0" type="14">1719297164</Property>
  <Property name="最后的外语翻译: 日期" id="10024" index="0" type="14">1583402155</Property>
- <Property name="今天的日期" id="10027" index="0" type="14">1716349785</Property>
+ <Property name="今天的日期" id="10027" index="0" type="14">1719380004</Property>
  <Property name="项目启动" id="10028" index="0" type="14">1712233520</Property>
  <Property name="上一级的结构格式" id="10029" index="0" type="7">4&#9;0&#9;0&#9;0&#9;0</Property>
  <Property name="环境因素" id="10034" index="0" type="15">de_DE@keine;en_US@None;nl_NL@geen;fr_FR@aucune;es_ES@ninguno;sv_SE@ingen;da_DK@ingen;zh_CN@无;ru_RU@нет;pl_PL@brak;pt_BR@nenhum;cs_CZ@žádné;it_IT@nessuna;hu_HU@Egy se;pt_PT@nenhum;ko_KR@없음;ja_JP@なし;tr_TR@yok;ro_RO@niciunul/niciuna;</Property>
  <Property name="最近使用的 EPLAN 版本" id="10043" index="0" type="7">2.9.4</Property>
  <Property name="最近使用的 EPLAN 内部版本号" id="10044" index="0" type="7">14642</Property>
- <Property name="完整项目路径" id="10045" index="0" type="7">C:\Users\Admin\Desktop\175自定义行架</Property>
+ <Property name="完整项目路径" id="10045" index="0" type="7">C:\Users\Admin\Desktop\GIT储存库\shenzhenleadshine\175自定义行架</Property>
  <Property name="创建时间" id="10046" index="0" type="7">20:25:19</Property>
- <Property name="修改时间" id="10047" index="0" type="7">12:24:29</Property>
+ <Property name="修改时间" id="10047" index="0" type="7">14:32:44</Property>
  <Property name="最后的外语翻译:时间" id="10048" index="0" type="7">17:55:55</Property>
  <Property name="结构格式:页" id="10050" index="0" type="7">&lt;10002&gt;&lt;10004&gt;&lt;11012&gt;&lt;11013&gt;</Property>
  <Property name="结构格式:中断点" id="10051" index="0" type="7">&lt;10002&gt;&lt;10004&gt;&lt;20012&gt;&lt;20013&gt;&lt;20014&gt;&lt;20015&gt;</Property>
@@ -45,7 +45,7 @@
  <Property name="结构格式:常规设备" id="10055" index="0" type="7">&lt;10002&gt;&lt;10004&gt;&lt;20012&gt;&lt;20013&gt;&lt;20014&gt;&lt;20015&gt;&lt;20016&gt;&lt;20017&gt;&lt;20018&gt;&lt;20019&gt;</Property>
  <Property name="结构格式:黑盒" id="10056" index="0" type="7">&lt;10002&gt;&lt;10004&gt;&lt;20012&gt;&lt;20013&gt;&lt;20014&gt;&lt;20015&gt;&lt;20016&gt;&lt;20017&gt;&lt;20018&gt;&lt;20019&gt;</Property>
  <Property name="结构格式:PLC/总线技术" id="10057" index="0" type="7">&lt;10002&gt;&lt;10004&gt;&lt;20012&gt;&lt;20013&gt;&lt;20014&gt;&lt;20015&gt;&lt;20016&gt;&lt;20017&gt;&lt;20018&gt;&lt;20019&gt;</Property>
- <Property name="白天" id="10058" index="0" type="14">1716349785</Property>
+ <Property name="白天" id="10058" index="0" type="14">1719380004</Property>
  <Property name="结构格式:端子排" id="10059" index="0" type="7">&lt;10002&gt;&lt;10004&gt;&lt;20012&gt;&lt;20013&gt;&lt;20014&gt;&lt;20015&gt;&lt;20016&gt;&lt;20017&gt;&lt;20018&gt;&lt;20019&gt;</Property>
  <Property name="结构格式:插头" id="10060" index="0" type="7">&lt;10002&gt;&lt;10004&gt;&lt;20012&gt;&lt;20013&gt;&lt;20014&gt;&lt;20015&gt;&lt;20016&gt;&lt;20017&gt;&lt;20018&gt;&lt;20019&gt;</Property>
  <Property name="结构格式:电缆" id="10061" index="0" type="7">&lt;10002&gt;&lt;10004&gt;&lt;20012&gt;&lt;20013&gt;&lt;20014&gt;&lt;20015&gt;&lt;20016&gt;&lt;20017&gt;&lt;20018&gt;&lt;20019&gt;</Property>
