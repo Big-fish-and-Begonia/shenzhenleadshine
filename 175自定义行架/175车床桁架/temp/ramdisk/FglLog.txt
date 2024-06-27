@@ -17,7 +17,7 @@
 *GUI(1)*MapPort:1234
 *GUI(1)*SimRamSize:64
 *GUI(1)*SimExitTime:14400
-*GUI(1)*ProjectCheckSum(0x2b7a9df, 0x2bd950d)
+*GUI(1)*ProjectCheckSum(0x2bd950d, 0x2c5bec3)
 *GUI(1)*ClientMonit::Pid(0)
 *GUI(1)*LightSave 1 BackLight 60 LightPercent 20
 *GUI(1)*DoLoadTtfFile::Pid(0)
